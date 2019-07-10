@@ -1,0 +1,37 @@
+body{
+  background-image: url("fondo.jpg");
+  color: white;
+}
+
+
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 129px;
+}
+
+div.secondary.callout.text-center{
+  min-height: 242px;
+}
+#img1{
+  border-color: red;
+  min-height: 100px;
+}
+#img2{
+  border-color: yellow;
+  min-height: 300px;
+}
+#img3{
+  border-color: orange;
+}
+#col1{
+background-color: rgba(100,0,0,0.5);
+}
+#col2{
+background-color: rgba(100,100,0,0.5);
+}
+#col3{
+background-color: rgba(100,100,100,0.5);
+}
